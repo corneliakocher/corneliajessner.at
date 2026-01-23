@@ -24,7 +24,7 @@ menu_settings:
 
 # Call to action button
 cta_button:
-    enable: true
+    enable: false
     cta_button_link: '/contact/'
     cta_button_text: Get in touch
 
@@ -32,9 +32,9 @@ cta_button:
 # Hero Settings
 hero:
     enable: true
-    hero_intro: Hey, I’m Cornelia
-    hero_title: Ux und so
-    hero_description: I'm a passionate product designer, and I thrive on creating intuitive and delightful interactions that shape the future of technology. Join me as we explore the evolving landscape of user experience and how design can seamlessly integrate with the latest technological advancements.
+    hero_intro: Hi, ich bin Cornelia
+    hero_title: UX Designerin mit Fokus auf klare Flows
+    hero_description: 'Gute UX ist für mich: weniger Reibung, mehr Vertrauen, spürbar bessere Interaktionen. Ich verbinde Nutzerbedürfnisse mit Business-Zielen und übersetze Insights in robuste Konzepte, UI-Systeme und klickbare Prototypen.'
     hero_images:
         - alt: 'Hobby'
           url: '/images/hero-1.jpg'
@@ -47,7 +47,7 @@ hero:
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
 mailchimp__input__text: Your email address
 mailchimp__button__text: Subscribe
@@ -56,7 +56,7 @@ mailchimp__button__text: Subscribe
 # Projects Settings
 projects:
     enable: true
-    projects_title: Works
+    projects_title: Work
 
 #-------------------------------
 # Testimonials Section
@@ -147,12 +147,12 @@ blog:
 # Author Section Settings
 author_section:
     enable: true
-    author_section_role: Product Designer
-    author_section_title: What do I say about myself?
-    author_section_description: When I'm not a Product Designer, I can often be found cycling through picturesque landscapes, immersing myself in the joy of two-wheeled adventures. Reading books is another passion of mine, as I love delving into captivating stories and exploring new ideas. Beyond these pursuits, I relish engaging in various activities that nurture my creativity and keep me inspired.
+    author_section_role: User Experience Designerin
+    author_section_title: Wenn ich nicht designe
+    author_section_description: Wenn ich nicht an Interfaces und Flows sitze, bin ich meist auf der Suche nach kleinen Momenten, die mich inspirieren. Ich mag Malen, weil ich dabei frei denken kann und ganz nebenbei neue Perspektiven finde. Yoga gehört für mich dazu, um ruhig zu werden und neue Energie zu sammeln. Sobald die Sonne rauskommt, bin ich gern draußen, das ist für mich der beste Akku. Und ich probiere gerne neue Rezepte aus, um am Ende etwas Gutes auf den Tisch bringen.
     author_section_image: '/images/01.jpg'
-    author_section_button_text: hey@jesse.site.com
-    author_section_button_link: 'mailto:hey@jesse.site.com'
+    author_section_button_text: co.jessner@gmail.com
+    author_section_button_link: 'mailto:co.jessner@gmail.com'
 
 #-------------------------------
 # Tags Section Settings
@@ -184,11 +184,9 @@ gallery:
 
 # Social links
 social:
-    - { icon: 'fa-brands fa-twitter', link: 'https://twitter.com' }
-    - { icon: 'fa-brands fa-facebook-f', link: 'https://facebook.com' }
-    - { icon: 'fa-brands fa-instagram', link: 'https://instagram.com' }
-    - { icon: 'fa-brands fa-pinterest', link: 'https://pinterest.com' }
-    - { icon: 'fa-brands fa-dribbble', link: 'https://dribbble.com' }
+    - { icon: 'fa-brands fa-linkedin', link: 'https://www.linkedin.com/in/corneliajessner/' }
+    - { icon: 'fa-brands fa-behance', link: 'https://www.behance.net/corneliajessner' }
+
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons

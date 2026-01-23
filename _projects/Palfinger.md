@@ -1,9 +1,9 @@
 ---
-title: Innovative Solutions for a Seamless Digital Experience
-description: Discover how I leverage Artificial Intelligence (AI) to create tailored and personalized user experiences that adapt and evolve with each individual's unique needs and preferences.
-date: 2023-08-10 08:01:35 +0300
-label: Design
-image: '/images/project-1.jpg'
+title: Palfinger AG
+description: Bei PALFINGER habe ich UX für HMI und digitale Produktoberflächen umgesetzt, von Anforderungen und User Flows über Wireframes und Prototypen bis zur Abstimmung mit Entwicklung und Stakeholdern.
+date: 2025-01-06 08:01:35 +0300
+label: UX & HMI-Design
+image: '/images/project-2.jpg'
 ---
 
 ## The Power of Visual Storytelling

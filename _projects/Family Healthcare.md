@@ -1,9 +1,9 @@
 ---
-title: Nature's Essence - Eco-Friendly Skincare Brand
-description: Embrace the Power of Nature with Nature's Essence! This branding project involved creating an identity for an eco-friendly skincare brand inspired by the beauty of nature.
-date: 2023-08-09 08:01:35 +0300
-label: Branding
-image: '/images/project-2.jpg'
+title: Family Healthcare
+description: Konzeption und Gestaltung einer Healthcare-Webapp, die Gesundheitsdaten strukturiert abbildet und die Verwaltung vereinfacht. Im Mittelpunkt standen Informationsarchitektur und eine Nutzung, die auch bei sensiblen Inhalten klar und ruhig bleibt.
+date: 2024-01-02 08:01:35 +0300
+label: Branding, UX & UI-Design
+image: '/images/project-1.jpg'
 ---
 
 ## The Power of Visual Storytelling
