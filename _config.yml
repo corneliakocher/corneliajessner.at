@@ -1,0 +1,21 @@
+title: Cornelia Jessner
+email: info@example.com
+description: >-
+  Portfolio and notes.
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+collections:
+  pages:
+    output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .jekyll-cache
+  - .bundle
+  - vendor
