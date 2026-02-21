@@ -1,6 +1,12 @@
 # Nuntu – An impressive portfolio theme for Jekyll
 
-Nuntu is a feature-rich and versatile theme for Jekyll, designed for creating an impressive personal portfolio. Whether you're a developer, designer, writer, or any creative professional, Nuntu has got you covered with its wide range of functionalities and stunning design.
+Nuntu is a feature-rich and versatile theme for Jekyll, designed for creating an impressive personal portfolio. Whether you're a developer, designer, writer, or any creative professional, Nuntu has got you covered with its wide range of functionalities and stunning design
+
+## How To Start my web server 
+
+```bash
+bundle exec jekyll serve
+```
 
 * * *
 

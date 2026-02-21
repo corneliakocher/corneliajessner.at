@@ -51,11 +51,6 @@ body {
   }
 }
 
-*::selection {
-  color: var(--dark);
-  background-color: var(--secondary-color);
-}
-
 .global-wrap {
   &.is-active {
     overflow-x: hidden;
@@ -110,7 +105,7 @@ blockquote {
   font-weight: 700;
   letter-spacing: $heading-letter-spacing;
   border-radius: 22px;
-  color: var(--dark);
+  color: var(--light-gray);
   background: var(--secondary-color);
 
   p {
@@ -124,8 +119,7 @@ blockquote {
     font-weight: 500;
     letter-spacing: $heading-letter-spacing;
     font-style: normal;
-    color: var(--dark);
-
+    color: var(--light-gray);
   }
 
   @media (max-width: $tablet) {
@@ -275,4 +269,13 @@ table td {
 
 .lightense-backdrop {
   background-color: var(--background-color) !important;
+}
+
+.grey-thin-line {
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 48px;
+}
+
+.footer__inner .top {
+  width: 134px;
 }

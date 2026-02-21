@@ -3,43 +3,96 @@ title: Greenr - ein nachhaltiger Messenger
 description: 'Greenr ist ein Konzept für einen grünen Messenger mit zusätzlicher Web-Version. Im Fokus standen energieeffiziente Nutzung, reduzierter Datenverbrauch und eine klare, schlanke Nutzerführung für alltägliche Kommunikation.'
 date: 2024-01-03 08:01:35 +0100
 label: Branding, UX & UI-Design
-image: '/images/project-3.jpg'
+image: '/images/thumbnail_greenr.webp'
 ---
 
-## The Power of Visual Storytelling
+## Ausgangspunkt
 
-The process of creating a user interface starts with in-depth analysis of user needs and competitor research. Understanding user behavioral patterns and preferences plays a crucial role in developing design concepts.
+Messenger sind im Alltag „Always-on“-Produkte: hohe Nutzung, viele Medieninhalte, ständige Synchronisation. Gleichzeitig wächst der Anspruch vieler Nutzer:innen an Datenschutz und an einen bewussteren Umgang mit dem ökologischen Footprint digitaler Services. Greenr setzt genau dort an: als Messenger, der Nachhaltigkeit sichtbar macht und Energieverbrauch aktiv reduziert.
 
-From wireframes to prototypes, logo design to UI/UX, we strive to unravel the mysteries of exceptional design that leaves a lasting impact on users. Let's craft experiences that inspire and delight, one design at a time.
+<div class="grey-thin-line"></div>
+
+## Ziel
+
+Ein Messenger (Mobile + Web), der:
+
+1. Energie- und Datenverbrauch reduziert (u.a. über Media-Komprimierung und automatische Löschung nach 30 Tagen)
+1. Dark Mode als Standard nutzt, um den Energieverbrauch des Endgeräts zu senken
+1. Nutzer:innen nachvollziehbar zeigt, wie viel CO₂ sie im Vergleich zu anderen Messengern einsparen können
+1. Gleichzeitig die erwarteten Basisfunktionen eines Messengers zuverlässig abdeckt
+
+<div class="grey-thin-line"></div>
+
+## Meine Rolle
+
+UX/UI - von der Idee bis zur abschließenden Usability Study inklusive Iterationen.
+Deliverables: User Research, Personas, User Journeys, Wireframes (Papier + digital), Low-/High-Fidelity Prototypen, User Testing & Verbesserungen
+
+<div class="grey-thin-line"></div>
+
+## Vorgehen, bewusst „entscheidungsorientiert“
+#### Research: Was Nutzer:innen wirklich erwarten
+
+Ich habe eine Online-Umfrage mit 6 Teilnehmenden durchgeführt und quantitative sowie qualitative Fragen kombiniert (Nutzungsverhalten, Datenschutz, Funktionsbedarf, Akzeptanz von Einschränkungen zugunsten Energieeffizienz).
+
+Kernaussagen, die das Design geprägt haben
+
+- Messenger werden mehrmals täglich genutzt; relevante Benchmarks sind u. a. WhatsApp (Verbreitung) und Signal (Sicherheitswahrnehmung)
+- Datenschutz ist ein dominantes Entscheidungskriterium (keine Weiterverarbeitung/kein „Mitspeichern“ von Inhalten)
+- „Must-haves“ sind Gruppenchats und Videotelefonie
+- „Nice-to-have" sind Features wie Stories oder permanente Backups
+
+#### Synthesis: Zwei Zielrichtungen, ein Produkt
+
+Aus den Erkenntnissen habe ich zwei Leitplanken abgeleitet:
+1. Trust zuerst: Datenschutz und Transparenz müssen unmittelbar erkennbar sein.
+1. Sustainability ohne Friction: Energieeffizienz darf keine zusätzliche Komplexität erzeugen (z. B. über automatische Regeln wie Löschfristen).
+
+Zur Verdichtung habe ich Personas (u. a. ein privacy-fokussierter Nutzer und eine stark nachhaltigkeitsorientierte Nutzerin) und passende Journey Maps erstellt.
+
+<div class="grey-thin-line"></div>
+
+## Konzept & Struktur
+
+In der Ideation-Phase habe ich Story Mapping genutzt, um Funktionen entlang realer Nutzungssituationen zu priorisieren und eine klare Produktstruktur für App und Web-Version abzuleiten.
+Darauf aufbauend entstanden Papier- und digitale Wireframes sowie ein Low-Fidelity-Prototyp für beide Formfaktoren.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/story_mapping.webp" loading="lazy" alt="Project">
   </div>
-  <em>Photo by <a href="https://unsplash.com/@mkmasdos" target="_blank">MK+2</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Behind every great design lies extensive research. Join us as we unravel the process of understanding users, their needs, and pain points, and how this knowledge fuels our creative solutions.
+<div class="grey-thin-line"></div>
 
-At the heart of successful UX/UI design is empathy. We explore how putting ourselves in users' shoes allows us to create designs that truly resonate with their desires and aspirations.
+## Testing & Iteration
 
-## Designing for Multi-Platform Experiences
+Für die erste Validierung habe ich ein unmoderiertes Usability Testing mit zwei Teilnehmenden durchgeführt (task-basiert).
 
-In a multi-device world, consistency is key. We discuss the challenges and opportunities that arise when designing experiences that seamlessly transition between devices.
+Auf Basis dieser Erkenntnisse habe ich den High-Fidelity-Prototyp erstellt und anschließend erneut mit zwei Probanden getestet; dabei traten keine Nutzungsprobleme mehr auf.
 
-We invite you to join us on this creative expedition as we explore the diverse facets of design and user experiences.
+<div class="grey-thin-line"></div>
+
+## UI-Umsetzung
+
+Für den High-Fidelity-Prototyp habe ich das Material 3 Design System als Grundlage verwendet und projektspezifisch adaptiert; ergänzend kam Lottie für Animationen zum Einsatz.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
+    <img src="/images/M3_designsystem.webp" loading="lazy" alt="Project">
   </div>
-  <em>Photo by <a href="https://unsplash.com/@mkmasdos" target="_blank">MK+2</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with user needs in mind, can leave a positive impression and satisfy their expectations.
+<div class="grey-thin-line"></div>
 
-***
+## Ergebnis
 
-Understanding user behavioral patterns and preferences plays a crucial role in developing design concepts. In this blog, we will explore methods and tools that will help you gather valuable data and transform it into unique design solutions.
+Ein konsistenter, responsiver Prototyp für Messenger App und Web-Version, der Nachhaltigkeit als Produktleistung (Reduktion von Daten/Medienlast, definierte Löschlogik, Dark-Mode-Strategie) mit den erwarteten Messenger-Kernfunktionen verbindet und die Themen Sicherheit/Vertrauen und Impact-Transparenz bewusst in der UX verankert.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/Chatübersicht.webp" loading="lazy" alt="Project">
+    <img src="/images/Gruppenchat.webp" loading="lazy" alt="Project">
+    <img src="/images/CO2.webp" loading="lazy" alt="Project">
+  </div>
+</div>

@@ -3,7 +3,7 @@
 title: Cornelia
 logo: # You can add own logo. For example '/images/logo.png'.
 description: An impressive portfolio theme for Jekyll
-color_scheme: auto # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
+color_scheme: light # You have the option to choose between three modes: auto, light, and dark. The default mode is set to auto, which means that the color scheme will automatically adapt based on your operating system settings. This way, you can enjoy a personalized experience without having to manually switch between light and dark modes.
 
 #-------------------------------
 # Author Global Settings
@@ -33,17 +33,17 @@ cta_button:
 hero:
     enable: true
     hero_intro: Hi, ich bin Cornelia
-    hero_title: UX Designerin mit Fokus auf klare Flows
-    hero_description: 'Gute UX ist für mich: weniger Reibung, mehr Vertrauen, spürbar bessere Interaktionen. Ich verbinde Nutzerbedürfnisse mit Business-Zielen und übersetze Insights in robuste Konzepte, UI-Systeme und klickbare Prototypen.'
+    hero_title: UX Designerin aus Leidenschaft
+    hero_description: 'UX bedeutet für mich, Menschen nicht nur durch Interfaces zu führen, sondern durch Klarheit und echte Zugänglichkeit Vertrauen aufzubauen. Denn nur wer sich sicher fühlt, bleibt.'
     hero_images:
         - alt: 'Hobby'
-          url: '/images/hero-1.jpg'
-        - alt: 'Apartment'
-          url: '/images/hero-2.jpg'
-        - alt: 'Friends'
-          url: '/images/hero-3.jpg'
-        - alt: 'Workflow'
-          url: '/images/hero-4.jpg'
+          url: '/images/me-1.webp'
+#       - alt: 'Apartment'
+#         url: '/images/hero-2.jpg'
+#       - alt: 'Friends'
+#         url: '/images/hero-3.jpg'
+#       - alt: 'Workflow'
+#         url: '/images/me-1.webp'
 
 #-------------------------------
 # Newsletter
@@ -150,7 +150,7 @@ author_section:
     author_section_role: User Experience Designerin
     author_section_title: Wenn ich nicht designe
     author_section_description: Wenn ich nicht an Interfaces und Flows sitze, bin ich meist auf der Suche nach kleinen Momenten, die mich inspirieren. Ich mag Malen, weil ich dabei frei denken kann und ganz nebenbei neue Perspektiven finde. Yoga gehört für mich dazu, um ruhig zu werden und neue Energie zu sammeln. Sobald die Sonne rauskommt, bin ich gern draußen, das ist für mich der beste Akku. Und ich probiere gerne neue Rezepte aus, um am Ende etwas Gutes auf den Tisch bringen.
-    author_section_image: '/images/01.jpg'
+    author_section_image: '/images/ux-designer.jpg'
     author_section_button_text: co.jessner@gmail.com
     author_section_button_link: 'mailto:co.jessner@gmail.com'
 
