@@ -147,12 +147,10 @@ blog:
 # Author Section Settings
 author_section:
     enable: true
-    author_section_role: User Experience Designerin
+    author_section_role: Was mache ich sonst so?
     author_section_title: Wenn ich nicht designe
     author_section_description: Wenn ich nicht an Interfaces und Flows sitze, bin ich meist auf der Suche nach kleinen Momenten, die mich inspirieren. Ich mag Malen, weil ich dabei frei denken kann und ganz nebenbei neue Perspektiven finde. Yoga gehört für mich dazu, um ruhig zu werden und neue Energie zu sammeln. Sobald die Sonne rauskommt, bin ich gern draußen, das ist für mich der beste Akku. Und ich probiere gerne neue Rezepte aus, um am Ende etwas Gutes auf den Tisch bringen.
     author_section_image: '/images/ux-designer.jpg'
-    author_section_button_text: co.jessner@gmail.com
-    author_section_button_link: 'mailto:co.jessner@gmail.com'
 
 #-------------------------------
 # Tags Section Settings

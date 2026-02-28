@@ -29,6 +29,5 @@ Was mich am Designen inspiriert, ist die Möglichkeit, Erlebnisse zu gestalten, 
 >
 <cite>- Steve Jobs</cite>
 
-***
 
 {% include section-author.html %}
